@@ -1,0 +1,33 @@
+img {
+    height: 400px;
+}
+
+
+
+.header {
+   display : flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.hey {
+    
+    display:flex;
+     margin:20px;
+    padding:10px;
+   
+    
+}
+.nice {
+ margin:28px;
+    padding:2px;
+    border:ridge 5px ;
+}
+h1{
+border:ridge 100px ;
+}
+
+body {
+  background-color: #002244;
+    color:#69BE28;
+}
